@@ -1,0 +1,4 @@
+__constructor();
+__destractor();
+
+inheritance
